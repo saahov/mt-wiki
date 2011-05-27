@@ -1,4 +1,4 @@
-# Список изменений в Movable Type RU
+# Список изменений
 
 ## 6 октября 2010 года — версия 5.031
 * Обновление дистрибутива до версии 5.031, список изменений: http://www.movabletype.org/documentation/appendices/release-notes/movable-type-5031.html
