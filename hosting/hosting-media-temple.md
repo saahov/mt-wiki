@@ -1,5 +1,3 @@
-[http://go.saahov.ru/url/u/media-temple Media Temple] — один из лучших зарубежных хостингов и пока что лучший зарубежный хостинг для Movable Type. Протестировано на тарифе Grid-Service (gs).
+Хостинг Media Temple
 
-[[Категория:Установка и настройка Movable Type]]
-[[Категория:Хостинг]]
-
+[Media Temple](http://go.movable-type.ru/media-temple) — один из лучших зарубежных хостингов и пока что лучший зарубежный хостинг для Movable Type. Протестировано на тарифе Grid-Service (gs).

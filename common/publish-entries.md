@@ -1,6 +1,6 @@
 # Создание и публикация записей
 
-<img src="/assets/create-entry.png" width="600" alt="Редактор записей"/>
+<img src="./assets/create-entry.png" width="600" alt="Редактор записей"/>
 
 ## Основы
 
