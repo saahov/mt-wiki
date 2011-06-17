@@ -99,3 +99,4 @@ $mt->display("mt:123");
 	<a href="<mt:BlogURL/>entries.php?offset=10">Предыдущие записи</a>
 </div>
 ```
+

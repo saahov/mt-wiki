@@ -43,3 +43,4 @@
 ```html
 <link rel="alternate" type="application/rss+xml" title="RSS" href="<mt:Link template="RSS Feed"/>" />
 ```
+
