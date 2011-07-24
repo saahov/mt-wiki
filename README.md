@@ -1,4 +1,4 @@
-Публичный репозиторий для [документации](https://github.com/movabletype-ru/movabletype/wiki).
+Публичный репозиторий для [документации](https://github.com/saahov/movabletype/wiki).
 
 ## Как работать с документацией
 
@@ -6,7 +6,7 @@
 
 #### 1. Сделать форк репозитория с документацией
 
-Для этого зайдите на страницу [github.com/movabletype-ru/mtwiki](https://github.com/movabletype-ru/mtwiki) и нажмите на кнопку «Fork», как показано на этой картинке:
+Для этого зайдите на страницу [github.com/saahov/mt-wiki](https://github.com/saahov/mt-wiki) и нажмите на кнопку «Fork», как показано на этой картинке:
 
 <img src="http://saahov.ru/assets/2011/06/github-fork-link.png" alt="Fork" />
 
